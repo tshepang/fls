@@ -111,10 +111,6 @@ The :t:`expression` of a :t:`constant initializer` shall be a
 The value of a :t:`constant` is determined by evaluating its
 :t:`constant initializer`.
 
-:dp:`fls_5x0jv4cgbolx`
-A use of a :t:`constant` is a :t:`value expression` and creates a copy of the
-constant's value.
-
 .. rubric:: Dynamic Semantics
 
 :dp:`fls_xezt9hl069h4`
